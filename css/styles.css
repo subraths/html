@@ -1,0 +1,23 @@
+p{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1.2em;
+}
+h1 {
+	font-style: normal;
+	font-size: 26px;
+	line-height: 6em;
+}
+p.important {
+	font-size: 14px;
+	font-weight: bolder;
+	line-height: 1.8em;
+}
+.blue{
+	color: blue;
+}
+.space{
+	letter-spacing: 10px;
+}
+.hei {
+	line-height: 1.8em;
+}
